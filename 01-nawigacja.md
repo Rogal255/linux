@@ -25,3 +25,5 @@
 *  względne - względem aktualnego katalogu (`pwd`)
 
 hello
+hello world
+std more
